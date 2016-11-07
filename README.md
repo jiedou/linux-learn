@@ -1,5 +1,7 @@
 # hello-world
 
+this is 2016 10 8 in dev branch write
+
 this is 2016 11 8 commit！！
 
 Just a start
