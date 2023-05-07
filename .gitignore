@@ -2,4 +2,5 @@
 */*.so
 */*.o
 *.a
+jie/build-linux_ipc-Desktop_*
 
